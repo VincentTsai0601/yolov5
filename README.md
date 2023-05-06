@@ -1,1 +1,1 @@
-## Thsi is using the custom dataset to train the model "YOLOv5"
+This repositiry is using custom dataset to train"yolov5"model
